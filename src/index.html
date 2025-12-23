@@ -1,0 +1,25 @@
+<template src="@components/templates/main/main.html" locals='{
+		"title":"Репетитор немецкого языка - Индивидуальные онлайн-занятия | Educate", 
+		"lang":"ru",
+		"preloader": {
+			"enable":"false",
+			"once":"false"
+		},
+		"keywords":"репетитор немецкого, немецкий язык онлайн, индивидуальные занятия немецким, подготовка к Goethe-Zertifikat, подготовка к TestDaF, разговорный немецкий, репетитор по немецкому языку, изучение немецкого, немецкий для начинающих, немецкий язык с носителем", 
+		"description":"Профессиональный репетитор немецкого языка. Индивидуальные онлайн-занятия, подготовка к международным экзаменам (Goethe-Zertifikat, TestDaF, DSH), развитие разговорных навыков. Более 10 лет опыта. Запишитесь на пробное занятие!"
+	}'>
+<｜tool▁call▁begin｜>
+read_file
+	<block name="header">
+		<include src="@components/layout/header/header.html" locals='{"active":"Home"}'></include>
+	</block>
+	<block name="main">
+		<include src="@components/pages/index/index.html" locals='{}'></include>
+	</block>
+	<block name="footer">
+		<include src="@components/layout/footer/footer.html" locals='{}'></include>
+	</block>
+	<block name="popup">
+		<include src="@components/layout/popup/popup.html"></include>
+	</block>
+</template>
