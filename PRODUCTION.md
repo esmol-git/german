@@ -3,7 +3,7 @@
 ## Выполненные задачи
 
 ### SEO оптимизация
-- ✅ Обновлены meta теги (title, description, keywords) для английского репетитора
+- ✅ Обновлены meta теги (title, description, keywords) для английского репетитора1
 - ✅ Добавлен theme-color с акцентным цветом #4f9df2
 - ✅ Обновлен Schema.org разметка для EducationalOrganization
 - ✅ Улучшены alt атрибуты всех изображений с описательным текстом
