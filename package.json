@@ -57,6 +57,7 @@
     "posthtml-parser": "latest",
     "pug-alias": "latest",
     "purgecss": "latest",
+    "qrcode-terminal": "latest",
     "react": "latest",
     "react-dom": "latest",
     "rollup-plugin-critical": "latest",
